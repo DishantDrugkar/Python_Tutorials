@@ -20,8 +20,8 @@ fact(5)
 
 # Currency Converter USD to INR
 
-def currency(usd_val) :
-    inr_val = usd_val * 83
-    print(usd_val, "USD =", inr_val , "INR")
+def currency(yen_val) :
+    inr_val = yen_val * 0.6
+    print(yen_val, "YEN =", inr_val , "INR")
 
-currency(1)
+currency(10000)
