@@ -6,3 +6,17 @@ Linux Basic Commands
     Syntax : cd folder_name
 
 3) pwd - [Present Working Directory] - Shows the full path of the current directory
+
+4) touch - creates an empty files
+    Syntax : touch demo.pdf
+
+5) mkdir - [ Make a Directory] - Creates a folder or Directory
+    Syntax : mkdir folder_name
+
+6) rm - [Remove] - Removes files 
+    Syntax : rm demo.pdf
+
+7) rmdir - [Remove a Directory] - It removes a directory
+    Syntax : rmdir folder_name
+ 
+        
