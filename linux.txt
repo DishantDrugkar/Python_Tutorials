@@ -1,0 +1,8 @@
+Linux Basic Commands
+
+1) ls - [list] - shows all the files and folders
+
+2) cd - [ change directory ] - moves into specified folder
+    Syntax : cd folder_name
+
+3) pwd - [Present Working Directory] - Shows the full path of the current directory
