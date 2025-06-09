@@ -38,3 +38,13 @@
 
 13) more - View file content one screen at a time (older alternative to less).
      Syntax : more file.txt
+
+
+
+----------------------------------------   INTERMEDIATE LINUX COMMANDS  -----------------------------------------------
+
+14) cp - [copy] - copy the file
+     Syntax : cp source destination
+              cp DevOps/demo.txt cloud/
+
+15) 
