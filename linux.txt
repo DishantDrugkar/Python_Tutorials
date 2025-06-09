@@ -1,4 +1,4 @@
-Linux Basic Commands
+---------------------------------------      Linux Basic Commands     ---------------------------------
 
 1) ls - [list] - shows all the files and folders
 
@@ -18,5 +18,23 @@ Linux Basic Commands
 
 7) rmdir - [Remove a Directory] - It removes a directory
     Syntax : rmdir folder_name
- 
-        
+
+8) cat - Display the content of files
+     Syntax : cat file.txt
+
+9) echo - Print text or variables to the terminal.
+     Syntax : echo "Hello World" > demo.txt
+
+10) head - View the first few lines of a file.
+     Syntax : head file.txt
+              head -n 5 file.txt    // Display 5 first line if we have 10 lines in a file
+
+11) tail - View the last few lines of a file.
+     Syntax : tail file.txt
+              tail -f file.txt      // Live monitoring of a file (useful for logs).
+
+12) less - Scroll through large files one page at a time (forward/backward).
+     Syntax : less file.txt
+
+13) more - View file content one screen at a time (older alternative to less).
+     Syntax : more file.txt
