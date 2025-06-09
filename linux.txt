@@ -47,4 +47,10 @@
      Syntax : cp source destination
               cp DevOps/demo.txt cloud/
 
-15) 
+15) mv - [move] - Moves the file to another folder (Without copy)
+     Syntax : mv file_source destination
+              mv cloud/Hello.txt DevOps/
+              mv cloud/ linux_for_cloud           // Indirectly Folder name changed to linux_for_cloud
+
+16) wc - [word count] - It counts the word which are present in the file.
+    Syntax : wc demo.txt
