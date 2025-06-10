@@ -54,3 +54,12 @@
 
 16) wc - [word count] - It counts the word which are present in the file.
     Syntax : wc demo.txt
+
+17) ln - s source new-file-name  - [link softlink] - // Soft link, file ka shortcut ya pointer hota hai — jaise Windows me shortcut banta hai.
+	                                                 •	Ye ek naya file banata hai jo original file ka path reference rakhta hai.
+	                                                 •	Agar original file delete ho gayi, to soft link broken ho jata hai (uska koi use nahi rehta).
+
+     Syntax : ln -s /Users/dishantdrugkar/linux/linux_for_cloud/cloud/demo.txt softlink-file
+
+
+18) ln 
