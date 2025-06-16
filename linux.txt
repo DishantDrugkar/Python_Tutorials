@@ -62,4 +62,4 @@
      Syntax : ln -s /Users/dishantdrugkar/linux/linux_for_cloud/cloud/demo.txt softlink-file
 
 
-18) ln 
+18) ln    - [link hardlink] - 
