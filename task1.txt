@@ -1,0 +1,17 @@
+create a folder of name employee
+in which you have given 10 employees data
+and you have to create a pdf file in employee folder 
+use linux commands to perform operations on file such as Read, Write, View
+and create one softlink of that pdf file
+
+EmpID,Name,Department,Role,Salary,Location
+101,Anjali Mehta,IT,System Administrator,65000,Pune
+102,Ravi Kumar,HR,HR Manager,72000,Delhi
+103,Sneha Patil,Finance,Accountant,58000,Mumbai
+104,Amit Singh,IT,DevOps Engineer,80000,Bangalore
+105,Neha Sharma,Marketing,SEO Analyst,55000,Chennai
+106,Rohan Das,IT,Linux Administrator,75000,Hyderabad
+107,Pooja Nair,Sales,Sales Executive,60000,Kolkata
+108,Sachin Yadav,IT,Security Analyst,77000,Ahmedabad
+109,Meera Joshi,Finance,Financial Analyst,62000,Pune
+110,Varun Kapoor,IT,Network Engineer,69000,Jaipur

@@ -63,3 +63,11 @@
 
 
 18) ln    - [link hardlink] - 
+
+
+19) df -h - [Disk Storage Info]
+
+20) du . -[It shows all folder in current directory]
+
+21) top -[It shows all processes are running currently in your device.]
+
