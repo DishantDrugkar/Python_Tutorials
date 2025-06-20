@@ -82,3 +82,7 @@
  25) who : Shows who is currently logged in to the system.
 
  26) whoami : Shows which user you are currently logged in as.   // ubuntu
+
+ 27) which : it is used to find the full path of a command that will be executed when we type it in the terminal.
+           Syntax : which [command_name]
+
