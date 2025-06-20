@@ -71,3 +71,14 @@
 
 21) top -[It shows all processes are running currently in your device.]
 
+ ---------------------------- Users and Groups Management in Linux. ---------------------------------------------
+
+ 22) uname - [Username] : It shows Username
+
+ 23) uptime - It shows timing of your device.
+
+ 24) date - It Displays the current date and time
+
+ 25) who : Shows who is currently logged in to the system.
+
+ 26) whoami : Shows which user you are currently logged in as.   // ubuntu
