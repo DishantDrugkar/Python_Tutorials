@@ -86,3 +86,10 @@
  27) which : it is used to find the full path of a command that will be executed when we type it in the terminal.
            Syntax : which [command_name]
 
+ 28) apt - [Advanced Packet Tool] : is the package manager used in Linux distributions like Ubuntu, which your EC2 instance is running.
+         
+         to download some application like docker
+         1] first we need to update the list
+             Syntax : sudo apt update
+         2] then install that application
+             Syntax : sudo apt docker.into    
