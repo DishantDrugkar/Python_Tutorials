@@ -92,4 +92,9 @@
          1] first we need to update the list
              Syntax : sudo apt update
          2] then install that application
-             Syntax : sudo apt docker.into    
+             Syntax : sudo apt docker.into   
+
+ 29) sudo useradd -m Directory_name : This is the command used to add a new user to the system.
+         Syntax : sudo useradd -m jethalal
+
+ 30)       
