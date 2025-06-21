@@ -102,3 +102,10 @@
 
   31) su -[switch user] : It is used to switch user from ubuntu to local user.
          Syntax : sudo su jethalal.    (After that you have to enter jethalal's password to login)        
+
+  32) cat /etc/passwd : to view no of users in the end.
+
+      cat /etc/group : to view no of Groups
+
+  33) userdel - [User delete] : Used to delete the particular user.
+       Syntax : sudo userdel jethalal           
