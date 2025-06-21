@@ -99,3 +99,6 @@
 
  30) passwd - [password] : This command is used to generate and give password to the user.
          Syntax : sudo passwd jethalal      
+
+  31) su -[switch user] : It is used to switch user from ubuntu to local user.
+         Syntax : sudo su jethalal.    (After that you have to enter jethalal's password to login)        
