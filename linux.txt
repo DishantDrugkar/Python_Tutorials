@@ -112,4 +112,10 @@
 
   34) groupadd -[To create group for  users] 
        Syntax : sudo groupadd group_name
-            
+
+  35) groupadd -a : To add users in particular group
+       Synatx : sudo groupadd -a ubuntu{user name} devops_engineer {group_name}      
+
+       If we want to add multiple users then
+
+       Syntax : sudo groupadd -M iyer,tappu,bhide tester    
