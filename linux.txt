@@ -109,3 +109,7 @@
 
   33) userdel - [User delete] : Used to delete the particular user.
        Syntax : sudo userdel jethalal           
+
+  34) groupadd -[To create group for  users] 
+       Syntax : sudo groupadd group_name
+            
