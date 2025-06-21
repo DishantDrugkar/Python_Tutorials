@@ -97,4 +97,5 @@
  29) sudo useradd -m Directory_name : This is the command used to add a new user to the system.
          Syntax : sudo useradd -m jethalal
 
- 30)       
+ 30) passwd - [password] : This command is used to generate and give password to the user.
+         Syntax : sudo passwd jethalal      
