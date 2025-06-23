@@ -138,3 +138,20 @@ dishantdrugkar@Dishants-MacBook-Air linux % scp -i ~/Downloads/tokyo.pem timepas
 timepass.txt                                                                                                                                                                  100%    0     0.0KB/s   00:00    
 dishantdrugkar@Dishants-MacBook-Air linux % 
 
+
+**** rsync command in linux ****
+
+dishantdrugkar@Dishants-MacBook-Air linux % rsync -e "ssh -i ~/Downloads/tokyo.pem" -avz DevOps ubuntu@ec2-13-61-12-6.eu-north-1.compute.amazonaws.com:/home/ubuntu/DevOps
+Transfer starting: 8 files
+DevOps/
+DevOps/Hello.txt
+DevOps/akihabara.txt
+DevOps/demo.txt
+DevOps/japan-culture
+DevOps/japan.txt
+DevOps/kyoto.txt
+DevOps/tokyo.txt
+
+sent 1059 bytes  received 180 bytes  1425 bytes/sec
+total size is 507  speedup is 0.41
+dishantdrugkar@Dishants-MacBook-Air linux %
