@@ -1,3 +1,7 @@
+ssh -i ~/Downloads/tokyo.pem ubuntu@ec2-13-61-12-6.eu-north-1.compute.amazonaws.com
+
+👆🏻👆🏻👆🏻👆🏻👆🏻👆🏻👆🏻👆🏻 Ubuntu login
+
 ---------------------------------------      Linux Basic Commands     ---------------------------------
 
 1) ls - [list] - shows all the files and folders
@@ -119,3 +123,6 @@
        If we want to add multiple users then
 
        Syntax : sudo groupadd -M iyer,tappu,bhide tester    
+
+  36) groupdel -[Group delete] : used to delete group
+       Syntax : sudo groupdel tester     
