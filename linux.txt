@@ -126,3 +126,15 @@ ssh -i ~/Downloads/tokyo.pem ubuntu@ec2-13-61-12-6.eu-north-1.compute.amazonaws.
 
   36) groupdel -[Group delete] : used to delete group
        Syntax : sudo groupdel tester     
+
+
+  ********************************************     From Local to server file transfer       ***********************************
+
+       dishantdrugkar@Dishants-MacBook-Air linux % ls
+demo.txt		employee		hello.txt		new_file.txt		timepass.txt
+DevOps			employee_softlink_file	linux_for_cloud		softlink-file
+
+dishantdrugkar@Dishants-MacBook-Air linux % scp -i ~/Downloads/tokyo.pem timepass.txt ubuntu@ec2-13-61-12-6.eu-north-1.compute.amazonaws.com:/home/ubuntu
+timepass.txt                                                                                                                                                                  100%    0     0.0KB/s   00:00    
+dishantdrugkar@Dishants-MacBook-Air linux % 
+
