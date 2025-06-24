@@ -159,3 +159,7 @@ dishantdrugkar@Dishants-MacBook-Air linux %
 
 
 *****************************************. Linux Networking Command  **********************************
+
+1) ping : used to test connectivity between your machine and another host.
+
+     Synatx : ping google.com
