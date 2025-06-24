@@ -163,3 +163,7 @@ dishantdrugkar@Dishants-MacBook-Air linux %
 1) ping : used to test connectivity between your machine and another host.
 
      Synatx : ping google.com
+
+2) netstat : Used to display network connections, routing tables, interface statistics, and more. It’s a useful tool for network troubleshooting and monitoring open ports.
+
+     Syntax : netstat
