@@ -167,3 +167,7 @@ dishantdrugkar@Dishants-MacBook-Air linux %
 2) netstat : Used to display network connections, routing tables, interface statistics, and more. It’s a useful tool for network troubleshooting and monitoring open ports.
 
      Syntax : netstat
+
+3) ifconfig : Used to view and config network interfaces on linux.
+
+     Syntax : ifconfig
