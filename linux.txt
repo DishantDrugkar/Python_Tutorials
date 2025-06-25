@@ -209,3 +209,12 @@ dishantdrugkar@Dishants-MacBook-Air linux %
 12) whois : Used to retrive information about a domain name.
 
     Syntax : whois google.com
+
+
+13) arp : Used to find MAC address.
+
+   Syntax : arp
+
+14) ifplugstatus : Used to check whether a network cable is plugged in to a network interface.
+
+   Syntax : ifplugstatus
