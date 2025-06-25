@@ -183,3 +183,9 @@ dishantdrugkar@Dishants-MacBook-Air linux %
 6) nslookup : is a network administration command line tool used to query domain name system servers.
 
       Syntax : nslookup google.com
+
+
+7) telnet : Used to connect remote server.
+
+    Syntax : telnet google.com 80
+          
