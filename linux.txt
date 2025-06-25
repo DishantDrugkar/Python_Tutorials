@@ -196,3 +196,16 @@ dishantdrugkar@Dishants-MacBook-Air linux %
 9) ip address show : Used to show system ip.
 
    Synatx : ip address show
+
+
+10) iwcofig : Used to view wireless network interfaces.
+
+   Synatx : iwconfig
+
+11) dig : [Domain Information Grouper] - Used to query DNS name server for information.
+
+   Syntax : dig google.com
+
+12) whois : Used to retrive information about a domain name.
+
+    Syntax : whois google.com
