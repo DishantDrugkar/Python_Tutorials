@@ -188,4 +188,7 @@ dishantdrugkar@Dishants-MacBook-Air linux %
 7) telnet : Used to connect remote server.
 
     Syntax : telnet google.com 80
-          
+
+8) hostnanme : Used to view the systems host name.
+
+   Synatx : hostnanme
