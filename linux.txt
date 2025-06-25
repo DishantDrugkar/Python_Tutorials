@@ -218,3 +218,11 @@ dishantdrugkar@Dishants-MacBook-Air linux %
 14) ifplugstatus : Used to check whether a network cable is plugged in to a network interface.
 
    Syntax : ifplugstatus
+
+15) curl : Used to transfer data to or from a server, supporting multiple protocols (HTTP, HTTPS, FTP, etc.). Ideal for API requests, sending data, and fetching content.
+
+   Syntax : curl -X GET [API]
+
+16) wget : Used mainly for downloading files or webpages.
+
+    Syntax : wget [file copy link address]
