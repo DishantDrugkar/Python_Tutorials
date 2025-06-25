@@ -171,3 +171,15 @@ dishantdrugkar@Dishants-MacBook-Air linux %
 3) ifconfig : Used to view and config network interfaces on linux.
 
      Syntax : ifconfig
+
+4) traceroute and tracepath : Used to trace the route packets take from your system.
+
+     Syntax : traceroute google.com
+
+5) mtr : [My Traceroute] - Give both ping and netstat
+
+     Synatx : mtr google.com
+
+6) nslookup : is a network administration command line tool used to query domain name system servers.
+
+      Syntax : nslookup google.com
