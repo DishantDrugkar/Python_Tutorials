@@ -192,3 +192,7 @@ dishantdrugkar@Dishants-MacBook-Air linux %
 8) hostnanme : Used to view the systems host name.
 
    Synatx : hostnanme
+
+9) ip address show : Used to show system ip.
+
+   Synatx : ip address show
