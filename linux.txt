@@ -237,3 +237,5 @@ dishantdrugkar@Dishants-MacBook-Air linux %
 
 
 2) sed - [ stream editor]: Used for editing text in a file or stream (e.g., replace, delete, insert lines).
+
+     Syntax : sed 's/old/new/g' file.txt.      // replaces the word to new word
