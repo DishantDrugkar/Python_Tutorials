@@ -226,3 +226,14 @@ dishantdrugkar@Dishants-MacBook-Air linux %
 16) wget : Used mainly for downloading files or webpages.
 
     Syntax : wget [file copy link address]
+
+
+
+    ******************************. PRO LINUX COMMANDS. ***************************************
+
+1) awk : Used for processing structured data (like columns) and generating reports.
+
+     Syntax : awk '{print $1, $3}' data.txt   // returns column 1 and 3
+
+
+2) sed : 
