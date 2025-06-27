@@ -66,7 +66,10 @@ ssh -i ~/Downloads/tokyo.pem ubuntu@ec2-13-61-12-6.eu-north-1.compute.amazonaws.
      Syntax : ln -s /Users/dishantdrugkar/linux/linux_for_cloud/cloud/demo.txt softlink-file
 
 
-18) ln    - [link hardlink] - 
+18) ln    - [link hardlink] - If you delete the original file, the data is not lost as long as there is at least one hard link pointing to it.
+         
+         Syntax : echo "Hello, Linux!" > file1.txt
+                   ln file1.txt file1_link.txt
 
 
 19) df -h - [Disk Storage Info]
